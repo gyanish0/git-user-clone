@@ -1,0 +1,7 @@
+.card compact bg-base-100 shadow {
+    display: none;
+}
+
+.card-body {
+    display: none;
+}
