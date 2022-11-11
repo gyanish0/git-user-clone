@@ -5,3 +5,6 @@
 .card-body {
     display: none;
 }
+.text-base-content {
+    display: none !important;
+}
