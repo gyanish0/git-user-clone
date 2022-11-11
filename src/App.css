@@ -1,10 +1,6 @@
-.card compact bg-base-100 shadow {
-    display: none;
+.footer {
+  display: none !important;
 }
-
-.card-body {
-    display: none;
-}
-.text-base-content {
-    display: none !important;
+footer {
+  display: none !important;
 }
