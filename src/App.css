@@ -3,5 +3,5 @@
 }
 
 .card-body {
-    display: none;
+    display: none !important;
 }
